@@ -1,6 +1,7 @@
-it automatically create a folder and a repository in github.
+AUTOREPOCREATER
+----------------------
 
-
+It automatically create a folder and a repository in github 
 
 create a custom command in shell and create a function.
 
